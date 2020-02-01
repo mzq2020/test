@@ -167,4 +167,5 @@ void CMFCChatClientDlg::OnBnClickedConnectBtn()
 void CMFCChatClientDlg::OnBnClickedBreakBtn()
 {
 	// TODO: 在此添加控件通知处理程序代码
+	TRACE("[OnBnClickedBreakBtn]点击了断开");
 }
